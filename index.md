@@ -6,3 +6,4 @@ description: "The front page"
 permalink: /
 ---
 
+## Welcome to the blog
