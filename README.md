@@ -8,10 +8,4 @@
 
 ## Acknowledgement
 
-The blog has been built using the open source theme
-
-```yaml
-just-the-docs <a href="https://github.com/pmarsceill/just-the-docs">Github</a>
-``` 
-
-under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+The blog has been built using the open source theme <i>just-the-docs<\i> (<a href="https://github.com/pmarsceill/just-the-docs">Github</a>) under the terms of the [MIT License](http://opensource.org/licenses/MIT).
